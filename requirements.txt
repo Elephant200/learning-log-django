@@ -1,0 +1,7 @@
+asgiref
+beautifulsoup4
+Django
+django-bootstrap4
+pytz
+soupsieve
+sqlparse
